@@ -15,6 +15,7 @@
 - back: bin/cake migrations rollback
 - seed: bin/cake bake seed UsersSeed
 - run seed: bin/cake migrations seed
+- bin/cake migrations seed --seed NameOfSeeder
 # cài plugin
 composer require cakephp/authentication
 bin/cake plugin load Authentication
