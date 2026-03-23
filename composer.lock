@@ -125,16 +125,16 @@
         },
         {
             "name": "cakephp/cakephp",
-            "version": "5.2.9",
+            "version": "5.2.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/cakephp.git",
-                "reference": "12d41e43f945c1cb38ef3d983a9d87f9b13c041f"
+                "reference": "e2cdc8f1c907d204f4bccf76bac1b2b93eea922e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/12d41e43f945c1cb38ef3d983a9d87f9b13c041f",
-                "reference": "12d41e43f945c1cb38ef3d983a9d87f9b13c041f",
+                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/e2cdc8f1c907d204f4bccf76bac1b2b93eea922e",
+                "reference": "e2cdc8f1c907d204f4bccf76bac1b2b93eea922e",
                 "shasum": ""
             },
             "require": {
@@ -242,20 +242,20 @@
                 "issues": "https://github.com/cakephp/cakephp/issues",
                 "source": "https://github.com/cakephp/cakephp"
             },
-            "time": "2025-10-17T03:14:02+00:00"
+            "time": "2026-01-15T02:54:29+00:00"
         },
         {
             "name": "cakephp/chronos",
-            "version": "3.3.0",
+            "version": "3.3.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/chronos.git",
-                "reference": "7d9af08f3ef777b88c2dba44f059382e2b389435"
+                "reference": "960e7ecd5709fc186309b0733a18beecb37fd37e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/chronos/zipball/7d9af08f3ef777b88c2dba44f059382e2b389435",
-                "reference": "7d9af08f3ef777b88c2dba44f059382e2b389435",
+                "url": "https://api.github.com/repos/cakephp/chronos/zipball/960e7ecd5709fc186309b0733a18beecb37fd37e",
+                "reference": "960e7ecd5709fc186309b0733a18beecb37fd37e",
                 "shasum": ""
             },
             "require": {
@@ -267,7 +267,7 @@
             },
             "require-dev": {
                 "cakephp/cakephp-codesniffer": "^5.0",
-                "phpunit/phpunit": "^10.5.58 || ^11.1.3"
+                "phpunit/phpunit": "^10.5.58 || ^11.5.3 || ^12.1.3"
             },
             "type": "library",
             "autoload": {
@@ -301,7 +301,7 @@
                 "issues": "https://github.com/cakephp/chronos/issues",
                 "source": "https://github.com/cakephp/chronos"
             },
-            "time": "2025-10-27T16:57:07+00:00"
+            "time": "2026-03-14T17:03:37+00:00"
         },
         {
             "name": "cakephp/migrations",
@@ -416,16 +416,16 @@
         },
         {
             "name": "composer/ca-bundle",
-            "version": "1.5.8",
+            "version": "1.5.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/ca-bundle.git",
-                "reference": "719026bb30813accb68271fee7e39552a58e9f65"
+                "reference": "961a5e4056dd2e4a2eedcac7576075947c28bf63"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/719026bb30813accb68271fee7e39552a58e9f65",
-                "reference": "719026bb30813accb68271fee7e39552a58e9f65",
+                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/961a5e4056dd2e4a2eedcac7576075947c28bf63",
+                "reference": "961a5e4056dd2e4a2eedcac7576075947c28bf63",
                 "shasum": ""
             },
             "require": {
@@ -472,7 +472,7 @@
             "support": {
                 "irc": "irc://irc.freenode.org/composer",
                 "issues": "https://github.com/composer/ca-bundle/issues",
-                "source": "https://github.com/composer/ca-bundle/tree/1.5.8"
+                "source": "https://github.com/composer/ca-bundle/tree/1.5.10"
             },
             "funding": [
                 {
@@ -484,7 +484,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-08-20T18:49:47+00:00"
+            "time": "2025-12-08T15:06:51+00:00"
         },
         {
             "name": "dereuromark/cakephp-queue",
@@ -866,16 +866,16 @@
         },
         {
             "name": "muffin/trash",
-            "version": "4.2.0",
+            "version": "4.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/UseMuffin/Trash.git",
-                "reference": "bbdaab7b2f1848fbce9111daadda1146ef1122a2"
+                "reference": "9ef3df08fc0aae65585f8cc666c00f912ca9da82"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/UseMuffin/Trash/zipball/bbdaab7b2f1848fbce9111daadda1146ef1122a2",
-                "reference": "bbdaab7b2f1848fbce9111daadda1146ef1122a2",
+                "url": "https://api.github.com/repos/UseMuffin/Trash/zipball/9ef3df08fc0aae65585f8cc666c00f912ca9da82",
+                "reference": "9ef3df08fc0aae65585f8cc666c00f912ca9da82",
                 "shasum": ""
             },
             "require": {
@@ -885,7 +885,7 @@
             "require-dev": {
                 "cakephp/cakephp": "^5.0.0",
                 "cakephp/cakephp-codesniffer": "^5.0",
-                "phpunit/phpunit": "^10.1.0"
+                "phpunit/phpunit": "^10.5.58 || ^11.5.3 || ^12.4"
             },
             "type": "cakephp-plugin",
             "autoload": {
@@ -925,7 +925,7 @@
                 "issues": "https://github.com/usemuffin/trash/issues",
                 "source": "https://github.com/usemuffin/trash"
             },
-            "time": "2025-02-04T07:09:14+00:00"
+            "time": "2026-03-22T07:01:14+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -6269,12 +6269,12 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
         "php": ">=8.1"
     },
-    "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
 }
